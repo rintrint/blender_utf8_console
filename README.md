@@ -1,0 +1,2 @@
+# blender_utf8_console
+启动Blender时自动将Console控制台设置为UTF-8编码，解决中文显示乱码问题
