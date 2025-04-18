@@ -14,3 +14,4 @@ def test(obj):
     obj.select_set(True)
 test(obj)
 ```
+![截图](Snipaste_2025-04-18_22-56-49.png)
