@@ -5,7 +5,7 @@
 安装插件后将插件启用即可，每次运行Blender都会自动将控制台改为UTF8
 
 # 测试方法
-激活插件后在Blender运行脚本，主动触发报错，观察中文是否乱码
+激活插件后重启，在Blender文本编辑器运行测试脚本主动触发报错，观察中文是否乱码
 ```
 import bpy
 shared_mesh = bpy.data.meshes.new(name="SharedMesh")
