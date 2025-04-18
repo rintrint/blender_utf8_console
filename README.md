@@ -1,5 +1,5 @@
 # Blender插件 控制台UTF8编码修复工具
-启动Blender时自动将Console控制台设置为UTF-8编码，解决中文显示乱码问题  
+启动Blender时自动将Console控制台设置为UTF8编码，解决中文显示乱码问题  
 仅限Windows操作系统，应该是多数Blender版本都能使用
 
 # 使用方法
